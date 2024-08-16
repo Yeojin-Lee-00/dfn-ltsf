@@ -1,1 +1,1 @@
-print("git adding")
+print("git")
