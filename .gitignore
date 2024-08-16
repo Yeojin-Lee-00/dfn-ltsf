@@ -1,0 +1,7 @@
+*.zip
+**/test_results
+*.pyc
+*.csv
+*.png
+*.pth
+*.npy
